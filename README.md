@@ -15,9 +15,10 @@ Prepared by Valient Newman
 
 My Github Repository <https://github.com/valient-newman>
 
-This addition gives the support for Embarcadero Delphi 12 to ZeosLib, changed the LibSuffix from 280 to 290 for Delphi 12. 
+This addition based on Zeos 7.2.14 Release gives the support for Embarcadero Delphi 12 to ZeosLib, changed the LibSuffix from 280 to 290 for Delphi 12. 
 
 ## What is to be done?
+
 Create subdirectory "Delphi12" in the directory "packages" of the original ZeosLib and copy my files there.
 Place the changed file Zeos.inc to the "src" directory.
 Compile for Windows 32 Target Platform.
